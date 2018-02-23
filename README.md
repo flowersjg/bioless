@@ -1,2 +1,2 @@
 # bioless
-serverless bioinformatics?
+serverless and informaticsless bioinformatics?
